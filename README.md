@@ -2,76 +2,68 @@
 
 ### Tech Lead • Building Reliable and Scalable Systems
 
-Software engineer with experience leading technical initiatives and building scalable products.
+Software engineer with experience building products, evolving systems and helping teams deliver sustainable solutions.
 
-Focused on software architecture, engineering practices, system evolution and long-term delivery.
+My background includes software development, technical leadership and architecture decisions across different stages of product growth.
 
 ---
 
-## Experience
+## What I Work On
 
 * Technical leadership and engineering decisions
 * Backend and frontend development
 * Architecture and system evolution
-* Legacy modernization
-* Distributed systems
 * Product delivery and maintainability
-* Cross-team collaboration
+* Distributed systems and integrations
+* Engineering practices and collaboration
 
 ---
 
-## Core Technologies
+## Experience Across Technologies
 
-### Backend
+These are some technologies and platforms I have worked with throughout my career.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
+### Development
 
-### Frontend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square\&logo=nestjs\&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square\&logo=vuedotjs\&logoColor=4FC08D)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue-35495E?style=for-the-badge\&logo=vuedotjs\&logoColor=4FC08D)
+### Architecture & Integration
 
-### Messaging & Async
+![REST API](https://img.shields.io/badge/REST_API-111111?style=flat-square)
+![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-111111?style=flat-square)
+![Event Driven](https://img.shields.io/badge/Event_Driven-111111?style=flat-square)
+![Microservices](https://img.shields.io/badge/Microservices-111111?style=flat-square)
 
-![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka\&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
-![Bull](https://img.shields.io/badge/Bull-1E1E1E?style=for-the-badge)
+### Messaging & Data
 
-### Search & Data
+![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square\&logo=apachekafka\&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square\&logo=rabbitmq\&logoColor=white)
+![BullMQ](https://img.shields.io/badge/BullMQ-111111?style=flat-square)
 
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge\&logo=elasticsearch\&logoColor=white)
-![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge\&logo=mariadb\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square\&logo=elasticsearch\&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=flat-square\&logo=opensearch\&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square\&logo=mariadb\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square)
 
 ### Cloud & Platform
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-1A1A1A?style=for-the-badge)
-
-### AWS Experience
-
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)
-![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge)
-![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge)
-![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square\&logo=amazonaws\&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-111111?style=flat-square)
 
 ---
 
-## Engineering Principles
+## How I Like To Work
 
-* Reliability over complexity
-* Sustainable technical decisions
-* Long-term maintainability
-* Scalable architecture
-* Continuous improvement
+* Build software with long-term thinking
+* Keep systems simple and maintainable
+* Balance technical quality and delivery
+* Help teams grow and move faster
 
 ---
 
-> Technologies shown represent part of my professional experience.
+> Always learning. Always building.
